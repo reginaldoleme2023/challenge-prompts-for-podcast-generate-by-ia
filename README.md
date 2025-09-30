@@ -1,7 +1,5 @@
-<p align="center">
-<img 
- <img src="./assets/midjourney.jpg" alt="Midjourney" width="300"/>
-</p>
+
+<img width="300" height="300" alt="midjourney" src="https://github.com/user-attachments/assets/3ed66193-a3f6-4aac-a71b-84a0e1036920" />
 
 <p align="center">
 <a href="https://dio.me/">
