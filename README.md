@@ -1,7 +1,6 @@
 <p align="center">
 <img 
- <img src="./assets/midjourney.png" alt="Midjourney" width="300"/>
-/>
+ <img src="./assets/midjourney.jpg" alt="Midjourney" width="300"/>
 </p>
 
 <p align="center">
