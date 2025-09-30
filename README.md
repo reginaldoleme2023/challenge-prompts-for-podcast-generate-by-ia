@@ -1,6 +1,6 @@
-
-<img width="300" height="300" alt="midjourney" src="https://github.com/user-attachments/assets/3ed66193-a3f6-4aac-a71b-84a0e1036920" />
-
+<p align="center">
+<img width="300" height="300" alt="midjourney" align="center" src="https://github.com/user-attachments/assets/3ed66193-a3f6-4aac-a71b-84a0e1036920" />
+</p>
 <p align="center">
 <a href="https://dio.me/">
     <img 
